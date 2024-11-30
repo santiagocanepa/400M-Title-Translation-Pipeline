@@ -1,5 +1,9 @@
 
-# Repository Overview
+# Ultra-Efficient-Cleaning-of-400M-Titles-with-Embed-Pipeline
+
+![image](https://github.com/user-attachments/assets/00739320-1353-40cd-bfaa-243779fda9f3)
+
+
 
 This repository contains several Jupyter notebooks designed to demonstrate various applications of natural language processing (NLP), machine learning, and data science techniques. Below is an extensive overview of each notebook, highlighting the methods and objectives covered in each one. This README aims to provide a detailed walkthrough of the repository, assisting users in understanding its various components and how they relate to different workflows for embedding generation, language detection, clustering, and predictive modeling.
 
